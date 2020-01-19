@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1536298707 source:c:\users\user\desktop\cuarto semestre\seminario de estructuras de datos ii\proyecto\proyecto seminario\main.cpp
+	<iostream>
+	"Clientes.h"
+	"Producto.h"
+	"Tickets.h"
+
+1536308543 source:c:\users\user\desktop\cuarto semestre\seminario de estructuras de datos ii\proyecto\proyecto seminario\src\clientes.cpp
+	"Clientes.h"
+	<iostream>
+	<string>
+	<string.h>
+	"fstream"
+
+1536308543 c:\users\user\desktop\cuarto semestre\seminario de estructuras de datos ii\proyecto\proyecto seminario\include\clientes.h
+	<string>
+
+1535606273 source:c:\users\user\desktop\cuarto semestre\seminario de estructuras de datos ii\proyecto\proyecto seminario\src\producto.cpp
+	"Producto.h"
+
+1535605822 c:\users\user\desktop\cuarto semestre\seminario de estructuras de datos ii\proyecto\proyecto seminario\include\producto.h
+	<string>
+
+1536305855 c:\users\user\desktop\cuarto semestre\seminario de estructuras de datos ii\proyecto\proyecto seminario\include\tickets.h
+	<string>
+
+1536308543 source:c:\users\user\desktop\cuarto semestre\seminario de estructuras de datos ii\proyecto\proyecto seminario\src\tickets.cpp
+	"Tickets.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
